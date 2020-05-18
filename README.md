@@ -1,6 +1,5 @@
 # Simple Website Using Github Pages
-Make a simple HTML website and publish it using Github Pages.  
-View example: https://zirafa.github.io/simple-website-template/
+Copied example from https://zirafa.github.io/simple-website-template/
 
 ## Setup
 - Create a Github account (if you don't have one yet)
@@ -36,11 +35,6 @@ If you are interested in selling products online, check out [BigCartel](www.bigc
 
 ### I heard I need to be using XYZ framework (Bootstrap, React, etc).
 Web technology changes rapidly, and it easy to get lost in the hype. Learning the basics of HTML, CSS, and JS is a good place to start. From there, you can explore different frameworks and libraries to see what interests you.
-
-### I don't want to write code or deal with website hosting. Are there any website builders you recommend?
-- Google Sites (free)
-- Squarespace
-- Wix
 
 
 
